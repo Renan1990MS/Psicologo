@@ -388,4 +388,13 @@
     #cta .btn {
       width: 80%;
     }
+
+    .btn-whatsapp {
+      text-decoration: none;
+      z-index: 1;
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+  }
+  
   }
